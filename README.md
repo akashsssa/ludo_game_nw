@@ -1,6 +1,6 @@
 # Ludo_Game
 
-Offline ludo game developed in android studio
+Offline ludo developed in android studio
 Ludo game developed java and this is to illustrate canvas in android with threading for game development.
 This is 2D game developed for imple stat of game development in android studi
 
