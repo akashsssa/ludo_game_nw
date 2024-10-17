@@ -2,7 +2,7 @@
 
 Offline ludo developed in android studio
 Ludo game developed java and this is to illustrate canvas in android wthreading for game development.
-This is 2D game developed for imple stat of game development in android studi
+T is 2D game developed for imple stat of game development in android studi
 
 <div class="container d-flex justify-content-center">
 
